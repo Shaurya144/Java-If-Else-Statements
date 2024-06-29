@@ -8,7 +8,7 @@ public class Main {
         // and also in Boolean Expressions
         int x = 2;
         int y = 5;
-        if (x < y) { // returns true as 2 is less than 5
+        if (x < y) { // returns true as 2 is less than 5 
             System.out.println(BillPayed);
         } else {
             System.out.println(NameEntered);
